@@ -121,8 +121,8 @@ This end-to-end analysis demonstrates the efficiency of using **Microsoft Fabric
 
 ---
 
-## 📌 Author
+## 📌 Project done by
 
-**Suparna Babu**  
-🔗 [LinkedIn](https://www.linkedin.com/in/inturi-suparna-babu-312b59270/)  
+**Inturi Suparna Babu**  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/inturi-suparna-babu-312b59270/)  
   
